@@ -1,4 +1,6 @@
 # practica-segundo-parcial
-Mariam Naylea Portillo Ariscurinaga
-Inf 122
-Practica
+Nombre: Mariam Naylea Portillo Ariscurinaga
+
+Materia: Inf 122
+
+Descripcion: Practica
